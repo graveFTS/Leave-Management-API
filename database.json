@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "employeeId": 1,
+      "firstName": "Dip",
+      "lastName": "Maity",
+      "email": "dip@gmail.com",
+      "department": "IT",
+      "joinDate": "2024-01-10"
+    },
+    {
+      "employeeId": 2,
+      "firstName": "Rahul",
+      "lastName": "Das",
+      "email": "rahul@gmail.com",
+      "department": "HR",
+      "joinDate": "2023-06-11"
+    },
+    {
+      "employeeId": 3,
+      "firstName": "Ankit",
+      "lastName": "Roy",
+      "email": "ankit@gmail.com",
+      "department": "Sales",
+      "joinDate": "2022-05-12"
+    },
+    {
+      "employeeId": 4,
+      "firstName": "Priya",
+      "lastName": "Sen",
+      "email": "priya@gmail.com",
+      "department": "Finance",
+      "joinDate": "2021-04-14"
+    },
+    {
+      "employeeId": 5,
+      "firstName": "Riya",
+      "lastName": "Paul",
+      "email": "riya@gmail.com",
+      "department": "Support",
+      "joinDate": "2020-08-15"
+    }
+  ],
+  "leaves": [],
+  "balances": [
+    {"employeeId":1,"year":2026,"leaveType":"Annual","days":20},
+    {"employeeId":1,"year":2026,"leaveType":"Sick","days":10},
+    {"employeeId":1,"year":2026,"leaveType":"Casual","days":7},
+
+    {"employeeId":2,"year":2026,"leaveType":"Annual","days":20},
+    {"employeeId":2,"year":2026,"leaveType":"Sick","days":10},
+    {"employeeId":2,"year":2026,"leaveType":"Casual","days":7},
+
+    {"employeeId":3,"year":2026,"leaveType":"Annual","days":20},
+    {"employeeId":3,"year":2026,"leaveType":"Sick","days":10},
+    {"employeeId":3,"year":2026,"leaveType":"Casual","days":7},
+
+    {"employeeId":4,"year":2026,"leaveType":"Annual","days":20},
+    {"employeeId":4,"year":2026,"leaveType":"Sick","days":10},
+    {"employeeId":4,"year":2026,"leaveType":"Casual","days":7},
+
+    {"employeeId":5,"year":2026,"leaveType":"Annual","days":20},
+    {"employeeId":5,"year":2026,"leaveType":"Sick","days":10},
+    {"employeeId":5,"year":2026,"leaveType":"Casual","days":7}
+  ]
+}

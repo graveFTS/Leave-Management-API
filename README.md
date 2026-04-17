@@ -200,6 +200,5 @@ You can deploy this project on:
 
 ## Author
 
-Dibyendu Dey
-
+Dipsekhar Maity 
 ---
